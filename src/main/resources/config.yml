@@ -1,0 +1,17 @@
+# xPlugMan, made by t.me/flxpr | tech.flink.gq/xplugman
+
+actionBars:
+  global:
+    noArguments: "&cНедостаточно &7аргументов"
+    unknownCommand: "&cНеизвестная &7команда"
+  loader:
+    noEnoughArguments: "&7Укажите плагин для &cвключения/выключения"
+    enable:
+      all: "&7Все плагины были &cвключены"
+      once: "&7Плагин &c%plugin% &7был &cвключен" # %plugin% - включенный плагин
+    disable:
+      all: "&7Все плагины были &cвыключены"
+      once: "&7Плагин &c%plugin% &7был &cвыключен" # %plugin% - отключенный плагин
+    restart:
+      all: "&7Все плагины были &cперезагружены"
+      once: "&7Плагин &c%plugin% &7был &cперезагружен" # %plugin% - перезагруженный плагин

@@ -1,0 +1,10 @@
+name: xPlugMan
+version: 1.0.0
+main: flxxd.xPlugMan.Main
+api-version: 1.18
+authors: [ flxxd ]
+description: an analogue of the PlugMan plugin
+website: tech.flink.gq/xplugman
+commands:
+  plugman:
+    aliases: ["xplugman"]
